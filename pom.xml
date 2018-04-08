@@ -5,7 +5,10 @@
     <groupId>com.hankcs</groupId>
     <artifactId>hanlp</artifactId>
     <version>1.6.2</version>
-
+    <modules>
+        <module>data</module>
+    </modules>
+    <packaging>pom</packaging>
     <name>HanLP</name>
     <url>http://www.hankcs.com/</url>
     <description>
